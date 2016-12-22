@@ -185,7 +185,7 @@ typedef BOOL (^ShouldBeginGestureCallBack)(UIGestureRecognizer *gesture);
     [self addChildViewController:mzviewController];
     [sv addSubview:mzviewController.view];
     
-    
+    UITableView *gitTableView;
     
 }
 
